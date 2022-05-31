@@ -22,7 +22,7 @@ Além de conceintos importantes de **ReactJS** e **Typescript**
 
 ## O Desafio
 
-Nesse desafio, o aluno deveria criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Tratava-se de uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Nesse desafio, o aluno deveria criar uma aplicação a partir de um [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react) para treinar o que aprendeu até agora no ReactJS. Tratava-se de uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 <p align="center">
   <img align="center" height="300"  src="https://user-images.githubusercontent.com/58188119/171281980-b20c2fc6-752f-4415-b04f-6aaa52100720.gif">
 </p>
